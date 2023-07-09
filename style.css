@@ -1,0 +1,19 @@
+@charset "UTF-8";
+body {
+    background-color: black;
+    color: white;
+    font-family: Verdana;
+    }
+  
+  table, th, td {
+    border: 1px solid;
+    padding: 5px;
+    text-align: left;
+    vertical-align: middle;}
+  #table1 {width:380px;}
+  a:link {color:#df9eff;}    
+  a:visited {color:#b5ff9e;}  
+  a:active {color:#FFFFFF;}
+  h1 {color: #87b03f;
+      font-family: Courier;
+      }
